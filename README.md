@@ -73,6 +73,7 @@ and after this
  This the terminal output whn we copy a text :
   ![](screenshot/example.png)
 
+6) Working
 - The tracker checks the clipboard every periodic interval of time . 
 - When it detects a change (using the clipboard sequence number), it logs the event.
 - Debounce logic ensures only one event is logged per user action, even if the clipboard is updated multiple times in quick succession.
