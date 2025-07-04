@@ -1,0 +1,11 @@
+# Python cache and bytecode 
+__pycache__/
+*.pyc
+
+# older logs
+*.json
+
+# System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+ 
