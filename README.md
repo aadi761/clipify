@@ -70,7 +70,7 @@ and after this
      Size: 0 bytes
      Preview: 
  
- This the terminal output whn we copy a text :
+ This the terminal output when we copy a text :
   ![](screenshot/example.png)
 
 6) Working
